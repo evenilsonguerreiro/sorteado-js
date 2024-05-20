@@ -60,7 +60,7 @@ h1{
     margin-bottom: 20px;
 }
 .resultado{
-    margin-top: 100px;
+    margin-top: 60px;
     border: 6px dotted var(--corPrincipal);
     padding: 16px;
     display: none;
